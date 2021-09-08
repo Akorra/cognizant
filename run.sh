@@ -1,3 +1,3 @@
 #! /bin/sh
 
-cd out/build ; ./COG
+cd out/build ; ./Cognizant
