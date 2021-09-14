@@ -1,8 +1,5 @@
-#include "utils/utils.h"
-
 int main()
 {
-    cog::utils::Timer timer("main");
-
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, I am Cognizant...\n";
+    return 0;
 }
